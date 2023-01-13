@@ -4,7 +4,7 @@ A comprehensive list of my data analysis and visualization projects. Mainly used
 
 - SQL
     - MySQL (MySQL Workbench)
-    - DuckDB (Postgre)
+    - DuckDB (Python)
 - Python (Jupyter Lab)
 - Visualization
     - Matplotlib/Seaborn (Python)
