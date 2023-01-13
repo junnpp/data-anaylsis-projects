@@ -28,6 +28,7 @@ A comprehensive list of my data analysis and visualization projects. Mainly used
 
 ## Visualizations
 
-- [My Tableau Page](https://public.tableau.com/app/profile/junhyeok.park)
-- [Regional Sales KPI Visualization](https://public.tableau.com/app/profile/junhyeok.park/viz/RegionalProftabilityReport/regional-profitability)
+### [My Tableau Page](https://public.tableau.com/app/profile/junhyeok.park)
+- [NYC Yellow Taix Interatice Visualization](https://public.tableau.com/app/profile/junhyeok.park/viz/NYCYellowTaxiAnalysis_16733749237460/NYCDashboard)
 - [Twitter KPI Visualization](https://public.tableau.com/app/profile/junhyeok.park/viz/TwitterKPIReportRWFD/Dashboard2)
+- [Regional Sales KPI Visualization](https://public.tableau.com/app/profile/junhyeok.park/viz/RegionalProftabilityReport/regional-profitability)
