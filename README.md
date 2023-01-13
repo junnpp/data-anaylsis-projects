@@ -26,7 +26,7 @@ A comprehensive list of my data analysis and visualization projects. Mainly used
 - [Telecom Customers Analysis](./python-telecom-churn-analysis/): Telecom customers churn / retention analysis using Python. Answered several business questions regarding churned customer behavior.
 - [Bee Colony Loss Analysis](https://github.com/junnpp/bee-colony-loss): The overall analysis of bee colony loss in the United States from 2016 to 2022 (mainly focused on 2021-2022). 
 
-# Visualization
+## Visualizations
 
 - [My Tableau Page](https://public.tableau.com/app/profile/junhyeok.park)
 - [Regional Sales KPI Visualization](https://public.tableau.com/app/profile/junhyeok.park/viz/RegionalProftabilityReport/regional-profitability)
